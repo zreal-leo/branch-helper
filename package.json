@@ -1,0 +1,25 @@
+{
+  "name": "branch-helper",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "zx ./src/command.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "await-to-js": "^3.0.0",
+    "chalk": "^5.3.0",
+    "commander": "^12.0.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.19",
+    "zx": "^7.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.1.1",
+    "prettier": "^3.2.5"
+  }
+}
