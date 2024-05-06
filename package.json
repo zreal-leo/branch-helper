@@ -2,7 +2,7 @@
   "name": "branch-helper",
   "version": "1.0.0",
   "description": "",
-  "bin": "src/index.js",
+  "bin": "src/command.js",
   "type": "module",
   "scripts": {
     "dev": "zx ./src/command.js"
