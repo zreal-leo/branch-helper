@@ -1,14 +1,20 @@
 {
   "name": "branch-create",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "git branch create tool",
   "bin": "src/command.js",
   "type": "module",
   "scripts": {
     "dev": "zx ./src/command.js"
   },
-  "files": ["src"],
-  "keywords": ["git", "branch", "log"],
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "git",
+    "branch",
+    "log"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:zreal-leo/branch-helper.git"
