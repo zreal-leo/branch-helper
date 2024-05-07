@@ -4,9 +4,7 @@
   "description": "git branch create tool",
   "bin": "src/command.js",
   "type": "module",
-  "scripts": {
-    "dev": "zx ./src/command.js"
-  },
+  "scripts": {},
   "files": [
     "src"
   ],
