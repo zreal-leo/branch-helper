@@ -6,7 +6,7 @@
 
 `npx branch-create create --source sourceBranch`
 
-## example 
+## example
 
 基于 main 分支创建新的分支
 
