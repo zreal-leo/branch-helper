@@ -1,5 +1,5 @@
 {
-  "name": "branch-log",
+  "name": "branch-create",
   "version": "1.0.0",
   "description": "",
   "bin": "src/command.js",
@@ -7,6 +7,9 @@
   "scripts": {
     "dev": "zx ./src/command.js"
   },
+  "files": [
+    "src"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
