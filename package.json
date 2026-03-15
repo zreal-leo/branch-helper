@@ -1,34 +1,34 @@
 {
-  "name": "branch-create",
-  "version": "1.0.1",
-  "description": "git branch create tool",
-  "bin": "src/command.js",
-  "type": "module",
-  "scripts": {},
-  "files": [
-    "src"
-  ],
-  "keywords": [
-    "git",
-    "branch",
-    "log"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:zreal-leo/branch-helper.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "await-to-js": "^3.0.0",
-    "chalk": "^5.3.0",
-    "commander": "^12.0.0",
-    "fs-extra": "^11.2.0",
-    "inquirer": "^9.2.19",
-    "zx": "^7.2.3"
-  },
-  "devDependencies": {
-    "eslint": "^9.1.1",
-    "prettier": "^3.2.5"
-  }
+	"name": "branch-create",
+	"version": "1.0.2",
+	"description": "git branch create tool",
+	"bin": "src/command.js",
+	"type": "module",
+	"scripts": {},
+	"files": [
+		"src"
+	],
+	"keywords": [
+		"git",
+		"branch",
+		"log"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:zreal-leo/branch-helper.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"await-to-js": "^3.0.0",
+		"chalk": "^5.3.0",
+		"commander": "^12.0.0",
+		"fs-extra": "^11.2.0",
+		"inquirer": "^9.2.19",
+		"zx": "^7.2.3"
+	},
+	"devDependencies": {
+		"eslint": "^9.1.1",
+		"prettier": "^3.2.5"
+	}
 }
