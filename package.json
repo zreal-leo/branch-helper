@@ -1,6 +1,6 @@
 {
 	"name": "branch-create",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "git branch create tool",
 	"bin": "src/command.js",
 	"type": "module",
